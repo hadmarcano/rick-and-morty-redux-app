@@ -25,7 +25,7 @@ const Header = (props) => {
                     <li
                     onClick={()=>handleSetSection('Characters')}
                     className={`header__nav__options-item ${
-                        sectionActive == "Characters" ?
+                        sectionActive === "Characters" ?
                         "active" : ""
                     }`}
                     >

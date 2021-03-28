@@ -6,7 +6,7 @@ const Footer = () => (
         <div className="footer__made">
             Made with
             {" "}
-            <span role="img" aria-label="heart">corazon</span>
+            <span role="img" aria-label="heart">💜</span>
             {" "}
             <a 
                 href="https://www.linkedin.com/in/hector-adolfo-diaz-marcano-ab0a27aa/"

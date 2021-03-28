@@ -1,5 +1,5 @@
 export const setFavorite = (payload) => ({
-  Type: "SET_FAVORITE",
+  type: "SET_FAVORITE",
   payload,
 });
 
